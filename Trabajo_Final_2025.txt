@@ -1,4 +1,5 @@
-Mockup_Senavicola: https://www.figma.com/design/OxDY9ldTEdIsaTvE494CaN/Proyecto-Senavicola-App-Escritorio?node-id=0-1&t=8RwmyVzVrm34sDBc-1
+Mockup_Senavicola: 
+https://www.figma.com/design/OxDY9ldTEdIsaTvE494CaN/Proyecto-Senavicola-App-Escritorio?node-id=0-1&t=8RwmyVzVrm34sDBc-1
 
 Drive_Proyecto_IA:
 https://drive.google.com/drive/folders/1ZS7huYxO2o66eC0ot4qk43pd6f8nNd9O?usp=sharing
