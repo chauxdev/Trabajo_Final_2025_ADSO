@@ -1,0 +1,14 @@
+Mockup_Senavicola: https://www.figma.com/design/OxDY9ldTEdIsaTvE494CaN/Proyecto-Senavicola-App-Escritorio?node-id=0-1&t=8RwmyVzVrm34sDBc-1
+
+Drive_Proyecto_IA:
+https://drive.google.com/drive/folders/1ZS7huYxO2o66eC0ot4qk43pd6f8nNd9O?usp=sharing
+
+Drive_Proyecto_Senavicola:
+https://drive.google.com/drive/folders/1BIYkBWXlNq7S2o-kD-25OyWAg3ScE1G7?usp=sharing
+
+(Senavicola se encuentra en fase de desarrollo por el momento, se ha logrado establecer permisos para el administrador, cuenta que creé exclusivamente para el instructor Janier, pero por igual faltan cositas por arreglar, el mockup ya está a un 90% de desarrollo aproximadamente, es decir, el proyecto tiene como objetivo llegar a ese punto, en este momento hacen falta realizar algunos cambios para este mismo con el fin de alcanzar la interfaz del mockup)
+
+CUENTA PARA INSTRUCTOR JANIER BALLESTEROS (ADMINISTRADOR)
+Documento: 1234567890
+Contraseña: janier123
+Usuario: Janier Ballesteros
